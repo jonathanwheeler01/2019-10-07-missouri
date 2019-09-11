@@ -193,7 +193,7 @@ Display the contact email address set in the configuration file.
 
 <p>
   <strong>Registration:</strong>
-  Please register at <a href="https://libcal.missouri.edu/calendar/workshops/SWC-2019"></a>.
+  Please register at <a href="https://libcal.missouri.edu/calendar/workshops/SWC-2019">https://libcal.missouri.edu/calendar/workshops/SWC-2019</a>.
 </p>
 
 <hr/>
